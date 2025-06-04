@@ -62,7 +62,9 @@ Voir sections [Quand générer un fichier `.gitignore` ?](#quand-générer-un-fi
 git branch -M main
 ```
 
-### 3. Lier le dépôt distant GitHub (une seule fois)
+### 3. Créer (en ligne, dans GitHub) et lier (dans le terminal de VS Code) le dépôt distant GitHub (une seule fois)
+
+![Create repository on GitHub](image.png)
 
 ```bash
 git remote add origin https://github.com/tonUser/nomDuRepo.git
