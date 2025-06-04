@@ -114,7 +114,7 @@ git push origin nom-de-la-branche
 | 3️⃣  | Local Repository (HEAD)    | Tu enregistres une version locale | `git commit`        |
 | 4️⃣  | Remote Repository (GitHub) | Tu synchronises avec GitHub       | `git push/pull`     |
 
-![Zones Git](https://comprendre-git.com/fr/glossaire/git-zones/)
+En savoir plus: https://comprendre-git.com/fr/glossaire/git-zones/
 
 ---
 
